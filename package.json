@@ -1,0 +1,10 @@
+{
+  "name": "db-copy",
+  "version": "1.0.0",
+  "main": "copy.js",
+  "author": "Neon",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
+}
